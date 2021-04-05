@@ -26,7 +26,7 @@ None
 
 ---- 
 ## ✦ <a id="test"></a> How to test 
-npm run test
+N/A
  
 ----
 ## ✦ <a id="demo"></a> Demo of Application

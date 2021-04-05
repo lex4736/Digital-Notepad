@@ -1,12 +1,13 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "An express JS application that allows user to write custom notes. I redesigned the front end to show a dairy themed for the notes. Thsi application allows the users to save notes for later use and retrieve that data from a Json file",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
+
   },
-  "author": "",
+  "author": "Alexis Arando",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
